@@ -6,12 +6,12 @@ Since this is alpha, optimization features are currently unavailable. Only the w
 
 ## Roadmap
 
-- `v0.3` — Distant shadow culling
-- `v0.4` — Distant particle/audio/light culling for build-piece effects
-- `v0.5` — Distance-based renderer disabling for selected safe static pieces
-- `v0.6+` — Mesh proxy / mesh combining experiments
-- Later — Collider simplification
-- Much later — WearNTear/support throttling
+- `v0.3` - Distant shadow culling
+- `v0.4` - Distant particle/audio/light culling for build-piece effects
+- `v0.5` - Distance-based renderer disabling for selected safe static pieces
+- `v0.6+` - Mesh proxy / mesh combining experiments
+- Later - Collider simplification
+- Much later - WearNTear/support throttling
 
 # Build Piece Profiler
 

@@ -1,3 +1,18 @@
+## Disclaimer
+
+This is an early `v0.2.0` alpha release. If you're interested in the future of this plugin, please don't hesitate to add suggestions or open issues in this repository.
+
+Since this is alpha, optimization features are currently unavailable. Only the working profiler has been implemented so far. Stay tuned for future updates!
+
+## Roadmap
+
+- `v0.3` — Distant shadow culling
+- `v0.4` — Distant particle/audio/light culling for build-piece effects
+- `v0.5` — Distance-based renderer disabling for selected safe static pieces
+- `v0.6+` — Mesh proxy / mesh combining experiments
+- Later — Collider simplification
+- Much later — WearNTear/support throttling
+
 # Build Piece Profiler
 
 Build Piece Profiler is a Valheim BepInEx plugin for investigating large-build performance problems.

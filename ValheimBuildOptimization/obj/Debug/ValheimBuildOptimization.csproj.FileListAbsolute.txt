@@ -1,0 +1,6 @@
+C:\Users\77mik\source\repos\ValheimBuildOptimization\bin\Debug\ValheimBuildOptimization.dll
+C:\Users\77mik\source\repos\ValheimBuildOptimization\bin\Debug\ValheimBuildOptimization.pdb
+C:\Users\77mik\source\repos\ValheimBuildOptimization\obj\Debug\ValheimBuildOptimization.csproj.AssemblyReference.cache
+C:\Users\77mik\source\repos\ValheimBuildOptimization\obj\Debug\ValheimBuildOptimization.csproj.CoreCompileInputs.cache
+C:\Users\77mik\source\repos\ValheimBuildOptimization\obj\Debug\ValheimBuildOptimization.dll
+C:\Users\77mik\source\repos\ValheimBuildOptimization\obj\Debug\ValheimBuildOptimization.pdb
